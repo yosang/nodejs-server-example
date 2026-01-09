@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Pizza Cubana Clásica",
+    "ingredients": "Salsa de tomate ligeramente dulce, queso gouda, queso mozzarella, chorizo español, rodajas de cebolla",
+    "image": "https://www.periodicocubano.com/wp-content/uploads/2023/02/la-Pizza-Cubana.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Pizza de Jamón y Piña",
+    "ingredients": "Salsa de tomate dulce, queso gouda, queso mozzarella, jamón, trozos de piña, orégano",
+    "image": "https://media.alamesacuba.com/media/delivery/Pizza_hawaiana_TodoPizzas_A_Domicilio_alamesacuba.com.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Pizza de Chorizo y Cebolla",
+    "ingredients": "Salsa de tomate, queso gouda, queso mozzarella, chorizo español, cebolla en rodajas, pimientos",
+    "image": "https://media.alamesacuba.com/media/delivery/Pizza_de_chorizo_TodoPizzas_A_Domicilio_alamesacuba.com.jpeg"
+  },
+  {
+    "id": "4",
+    "name": "Pizza Hawaiana Cubana",
+    "ingredients": "Salsa de tomate dulce, queso gouda, queso mozzarella, jamón, piña, trocitos de tocineta",
+    "image": "https://media.alamesacuba.com/media/delivery/pizza_hawaiana.jpeg"
+  },
+  {
+    "id": "5",
+    "name": "Pizza Vegetariana",
+    "ingredients": "Salsa de tomate, queso gouda, queso mozzarella, pimientos, cebolla, aceitunas, orégano",
+    "image": "https://media.alamesacuba.com/media/delivery/Vegetariana_HomePizza_Domicilios_alamesacuba.com.jpeg"
+  },
+  {
+    "id": "6",
+    "name": "Pizza de Plátano Maduro",
+    "ingredients": "Salsa de tomate dulce, queso gouda, queso mozzarella, plátanos maduros fritos, chorizo (opcional)",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/cf/da/df/pizza-de-ropa-vieja-y.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Pizza de Queso Extra",
+    "ingredients": "Salsa de tomate, queso gouda extra, queso mozzarella, queso parmesano, orégano",
+    "image": "https://tb-static.uber.com/prod/image-proc/processed_images/f0014a960e425cb12b0233eb74be844d/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+  },
+  {
+    "id": "8",
+    "name": "Pizza Cubana (Estilo Sándwich Cubano)",
+    "ingredients": "Base de salsa de tomate con mostaza, queso gouda, queso mozzarella, cerdo asado, jamón, pepinillos",
+    "image": "https://asassyspoon.com/wp-content/uploads/pizza-cubana-recipe-asassyspoon-17-500x375.jpg"
+  }
+]
